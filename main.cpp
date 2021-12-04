@@ -1,9 +1,4 @@
-/*	Author: Justin Mariki (justinmariki@my.unt.edu)
- 	Date: 11/16/2021
- 	Instructor: Asif Baba
- 	Description: This is a Walmart RedBox rip-off, it stores loans, Customers
-	and movies and stores their values.
-*/
+
 
 #include <iostream>
 #include <vector>
